@@ -1,0 +1,4 @@
+baseURL = 'https://agenture.dev/'
+languageCode = 'en-us'
+title = 'Agenture Home Page'
+theme = 'ananke'

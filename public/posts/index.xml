@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Agenture Home Page</title>
+    <link>http://localhost:56352/posts/</link>
+    <description>Recent content in Posts on Agenture Home Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2025 17:54:40 -0700</lastBuildDate>
+    <atom:link href="http://localhost:56352/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is Agenture</title>
+      <link>http://localhost:56352/posts/what-is-agenture/</link>
+      <pubDate>Thu, 26 Jun 2025 17:54:40 -0700</pubDate>
+      <guid>http://localhost:56352/posts/what-is-agenture/</guid>
+      <description>&lt;h2 id=&#34;what-is-agenture&#34;&gt;What is Agenture?&lt;/h2&gt;&#xA;&lt;p&gt;Agenture is a new paradigm in artificial intelligence, focusing on the development and deployment of agentic systems—AI entities capable of autonomous action, collaboration, and decision-making. Unlike traditional automation or narrow AI, agenture emphasizes intelligent agents that can perceive their environment, reason, plan, and interact with both humans and other agents to achieve complex goals.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Autonomy:&lt;/strong&gt; Agents operate independently, making decisions based on their objectives and context.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Collaboration:&lt;/strong&gt; Agentic systems can work together, share knowledge, and coordinate actions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Adaptability:&lt;/strong&gt; Agents learn from experience and adapt to changing environments.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Human-AI Partnership:&lt;/strong&gt; Agenture envisions seamless collaboration between humans and intelligent agents, augmenting human capabilities and enabling new forms of productivity.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Agenture represents a shift towards more dynamic, interactive, and context-aware AI solutions, unlocking new possibilities across industries and domains.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:56352/posts/my-first-post/</link>
+      <pubDate>Tue, 24 Jun 2025 22:01:40 -0700</pubDate>
+      <guid>http://localhost:56352/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
