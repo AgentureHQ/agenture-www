@@ -15,4 +15,6 @@ _site/
 # This means GitHub Pages will NOT use your Gemfile.lock and therefore it is
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
+/public/
+/resources/
 Gemfile.lock

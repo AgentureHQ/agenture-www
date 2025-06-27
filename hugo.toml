@@ -2,3 +2,6 @@ baseURL = 'https://agenture.dev/'
 languageCode = 'en-us'
 title = 'Agenture Home Page'
 theme = 'ananke'
+
+[params]
+  post_content_classes = "avenir"
