@@ -18,3 +18,4 @@ _site/
 /public/
 /resources/
 Gemfile.lock
+.DS_Store

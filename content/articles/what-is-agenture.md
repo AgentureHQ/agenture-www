@@ -9,7 +9,8 @@ title = 'Agenture - agentic AI backbone'
 What it does? It helps to automate complex tasks by orchestrating multiple agents. Additionally it provides infrastructure components for AI agents.
 
 
-
+## Background
+Here we provide use cases illustrating pain points Agenture will solve. 
 What is it?
 For enterprise: A place where enterprize users can deploy and manage AI agents.
 For AI agent vendors: A place where AI agent vendors can publish and sell their agents.
