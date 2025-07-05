@@ -3,7 +3,7 @@ title: "A Study on Agent Interoperability Protocols"
 date: 2024-07-28T14:30:00Z
 description: "Our latest research paper on the challenges and solutions for enabling seamless communication between diverse AI agents."
 author: "Agenture Team"
-draft: false
+draft: true
 tags: ["AI", "Interoperability", "Research"]
 ---
 

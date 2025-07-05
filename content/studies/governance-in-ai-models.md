@@ -3,7 +3,7 @@ title: "Framework for Governance in Large-Scale AI Models"
 date: 2024-07-27T09:00:00Z
 description: "A detailed framework for implementing robust governance and security measures in enterprise AI ecosystems."
 author: "Agenture Team"
-draft: false
+draft: true
 tags: ["AI", "Governance", "Security"]
 ---
 
