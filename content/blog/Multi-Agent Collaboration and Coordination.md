@@ -104,8 +104,6 @@ As capabilities mature, we expect to see multi-agent systems handling increasing
 
 ## References
 
-Here’s a single, de-duplicated reference list in chronological order, with unified formatting:
-
 1. Lowe, R., Wu, Y., Tamar, A., Harb, J., Abbeel, O., & Mordatch, I. (2017). **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments**. *arXiv preprint arXiv:1706.02275*. [https://arxiv.org/abs/1706.02275](https://arxiv.org/abs/1706.02275)
 
 2. Böhmer, J., Pinto, L., Abbeel, P., & Mordatch, I. (2019). **Deep Coordination Graphs: Efficient Multi-Agent Learning via Value Factorization**. *arXiv preprint arXiv:1910.00091*. [https://arxiv.org/abs/1910.00091](https://arxiv.org/abs/1910.00091)
