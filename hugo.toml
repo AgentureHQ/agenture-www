@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'Agenture Home Page'
 
 [params]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

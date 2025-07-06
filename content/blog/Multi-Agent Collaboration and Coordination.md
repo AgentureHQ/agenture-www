@@ -2,7 +2,9 @@
 title: "Multi-Agent Collaboration and Coordination"
 date: 2025-07-05T00:01:00Z
 description: "Exploring latest research and frameworks in multi-agent collaboration and coordination."
-author: "Vladimir Kroz vlad@kroztech.com"
+author: "Vladimir Kroz vladimir.kroz@gmail.com"
+tags: ["AI", "Multi-Agent Systems", "Cooperation", "Coordination", "Research"]
+link: "https://medium.com/@vladimir.kroz/multi-agent-collaboration-and-coordination-ea40f35a67a1"
 draft: false
 ---
 

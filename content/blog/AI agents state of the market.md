@@ -2,7 +2,7 @@
 title: "AI agents state of the market"
 date: 2025-07-05
 description: "Exploring the latest advances in AI agents, from planning and decision-making to memory and multi-agent collaboration."
-author: "Vladimir Kroz & Anthropic Claude"
+author: "Vladimir Kroz vladimir.kroz@gmail.com"
 draft: true
 ---
 
