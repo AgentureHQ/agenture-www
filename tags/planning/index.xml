@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Planning on Agenture Home Page</title>
-    <link>https://agenture.dev/tags/planning/</link>
+    <link>https://agenturehq.github.io/agenture-www/tags/planning/</link>
     <description>Recent content in Planning on Agenture Home Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Jul 2025 00:02:00 +0000</lastBuildDate>
-    <atom:link href="https://agenture.dev/tags/planning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://agenturehq.github.io/agenture-www/tags/planning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>State of AI agents in 2025</title>
-      <link>https://agenture.dev/blog/state-of-ai-agents-in-2025/</link>
+      <link>https://agenturehq.github.io/agenture-www/blog/state-of-ai-agents-in-2025/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/blog/state-of-ai-agents-in-2025/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/blog/state-of-ai-agents-in-2025/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Agentic AI—systems that make decisions and take action autonomously—has quickly moved from demos to real enterprise use. Unlike static chatbots, agentic AI can strategically plan multi-step tasks, operate autonomously, maintain contextual memory, and coordinate in multi-agent setups. Early projects in 2023, such as &lt;a href=&#34;https://github.com/Significant-Gravitas/AutoGPT&#34;&gt;AutoGPT&lt;/a&gt; and &lt;a href=&#34;https://github.com/yoheinakajima/babyagi&#34;&gt;BabyAGI&lt;/a&gt;, showed  the first steps toward autonomous task execution. Later improvements, such as enhanced structured reasoning through &lt;a href=&#34;https://arxiv.org/abs/2305.10601&#34;&gt;Tree-of-Thoughts (ToT)&lt;/a&gt;, allowed AI to systematically explore multiple solution pathways, reducing errors in decision-making. Additionally, &lt;a href=&#34;https://arxiv.org/abs/2303.11366&#34;&gt;Reflexion&lt;/a&gt; provided agents with mechanisms for self-assessment and iterative refinement, improving their ability to learn from previous failures. Commercial frameworks like &lt;a href=&#34;https://microsoft.github.io/autogen/&#34;&gt;AutoGen&lt;/a&gt; and &lt;a href=&#34;https://github.com/langchain-ai/langgraph&#34;&gt;LangGraph&lt;/a&gt; brought these academic concepts into practice, offering reliable and adaptable workflows for complex enterprise applications.&lt;/p&gt;</description>
     </item>
   </channel>

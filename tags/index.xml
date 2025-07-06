@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Agenture Home Page</title>
-    <link>https://agenture.dev/tags/</link>
+    <link>https://agenturehq.github.io/agenture-www/tags/</link>
     <description>Recent content in Tags on Agenture Home Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Jul 2025 00:02:00 +0000</lastBuildDate>
-    <atom:link href="https://agenture.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://agenturehq.github.io/agenture-www/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agentic AI</title>
-      <link>https://agenture.dev/tags/agentic-ai/</link>
+      <link>https://agenturehq.github.io/agenture-www/tags/agentic-ai/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/tags/agentic-ai/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/tags/agentic-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://agenture.dev/tags/ai/</link>
+      <link>https://agenturehq.github.io/agenture-www/tags/ai/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/tags/ai/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Cooperation</title>
-      <link>https://agenture.dev/tags/cooperation/</link>
+      <link>https://agenturehq.github.io/agenture-www/tags/cooperation/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/tags/cooperation/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/tags/cooperation/</guid>
       <description></description>
     </item>
     <item>
       <title>Coordination</title>
-      <link>https://agenture.dev/tags/coordination/</link>
+      <link>https://agenturehq.github.io/agenture-www/tags/coordination/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/tags/coordination/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/tags/coordination/</guid>
       <description></description>
     </item>
     <item>
       <title>Decision-Making</title>
-      <link>https://agenture.dev/tags/decision-making/</link>
+      <link>https://agenturehq.github.io/agenture-www/tags/decision-making/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/tags/decision-making/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/tags/decision-making/</guid>
       <description></description>
     </item>
     <item>
       <title>Memory</title>
-      <link>https://agenture.dev/tags/memory/</link>
+      <link>https://agenturehq.github.io/agenture-www/tags/memory/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/tags/memory/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/tags/memory/</guid>
       <description></description>
     </item>
     <item>
       <title>Multi-Agent Systems</title>
-      <link>https://agenture.dev/tags/multi-agent-systems/</link>
+      <link>https://agenturehq.github.io/agenture-www/tags/multi-agent-systems/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/tags/multi-agent-systems/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/tags/multi-agent-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Planning</title>
-      <link>https://agenture.dev/tags/planning/</link>
+      <link>https://agenturehq.github.io/agenture-www/tags/planning/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/tags/planning/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/tags/planning/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>https://agenture.dev/tags/research/</link>
+      <link>https://agenturehq.github.io/agenture-www/tags/research/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenture.dev/tags/research/</guid>
+      <guid>https://agenturehq.github.io/agenture-www/tags/research/</guid>
       <description></description>
     </item>
   </channel>
