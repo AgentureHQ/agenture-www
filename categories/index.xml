@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Agenture Home Page</title>
-    <link>https://agenturehq.github.io/agenture-www/categories/</link>
+    <link>https://agenturehq.github.io/categories/</link>
     <description>Recent content in Categories on Agenture Home Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://agenturehq.github.io/agenture-www/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://agenturehq.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

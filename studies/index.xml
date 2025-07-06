@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studies on Agenture Home Page</title>
-    <link>https://agenturehq.github.io/agenture-www/studies/</link>
+    <link>https://agenturehq.github.io/studies/</link>
     <description>Recent content in Studies on Agenture Home Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://agenturehq.github.io/agenture-www/studies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://agenturehq.github.io/studies/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

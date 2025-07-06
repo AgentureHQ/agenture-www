@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multi-Agent Systems on Agenture Home Page</title>
-    <link>https://agenturehq.github.io/agenture-www/tags/multi-agent-systems/</link>
+    <link>https://agenturehq.github.io/tags/multi-agent-systems/</link>
     <description>Recent content in Multi-Agent Systems on Agenture Home Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Jul 2025 00:02:00 +0000</lastBuildDate>
-    <atom:link href="https://agenturehq.github.io/agenture-www/tags/multi-agent-systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://agenturehq.github.io/tags/multi-agent-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>State of AI agents in 2025</title>
-      <link>https://agenturehq.github.io/agenture-www/blog/state-of-ai-agents-in-2025/</link>
+      <link>https://agenturehq.github.io/blog/state-of-ai-agents-in-2025/</link>
       <pubDate>Sun, 06 Jul 2025 00:02:00 +0000</pubDate>
-      <guid>https://agenturehq.github.io/agenture-www/blog/state-of-ai-agents-in-2025/</guid>
+      <guid>https://agenturehq.github.io/blog/state-of-ai-agents-in-2025/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Agentic AI—systems that make decisions and take action autonomously—has quickly moved from demos to real enterprise use. Unlike static chatbots, agentic AI can strategically plan multi-step tasks, operate autonomously, maintain contextual memory, and coordinate in multi-agent setups. Early projects in 2023, such as &lt;a href=&#34;https://github.com/Significant-Gravitas/AutoGPT&#34;&gt;AutoGPT&lt;/a&gt; and &lt;a href=&#34;https://github.com/yoheinakajima/babyagi&#34;&gt;BabyAGI&lt;/a&gt;, showed  the first steps toward autonomous task execution. Later improvements, such as enhanced structured reasoning through &lt;a href=&#34;https://arxiv.org/abs/2305.10601&#34;&gt;Tree-of-Thoughts (ToT)&lt;/a&gt;, allowed AI to systematically explore multiple solution pathways, reducing errors in decision-making. Additionally, &lt;a href=&#34;https://arxiv.org/abs/2303.11366&#34;&gt;Reflexion&lt;/a&gt; provided agents with mechanisms for self-assessment and iterative refinement, improving their ability to learn from previous failures. Commercial frameworks like &lt;a href=&#34;https://microsoft.github.io/autogen/&#34;&gt;AutoGen&lt;/a&gt; and &lt;a href=&#34;https://github.com/langchain-ai/langgraph&#34;&gt;LangGraph&lt;/a&gt; brought these academic concepts into practice, offering reliable and adaptable workflows for complex enterprise applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Multi-Agent Collaboration and Coordination</title>
-      <link>https://agenturehq.github.io/agenture-www/blog/multi-agent-collaboration-and-coordination/</link>
+      <link>https://agenturehq.github.io/blog/multi-agent-collaboration-and-coordination/</link>
       <pubDate>Sat, 05 Jul 2025 00:01:00 +0000</pubDate>
-      <guid>https://agenturehq.github.io/agenture-www/blog/multi-agent-collaboration-and-coordination/</guid>
+      <guid>https://agenturehq.github.io/blog/multi-agent-collaboration-and-coordination/</guid>
       <description>&lt;h2 id=&#34;multi-agent-collaboration-and-coordination&#34;&gt;Multi-Agent Collaboration and Coordination&lt;/h2&gt;&#xA;&lt;p&gt;Multi-agent systems use teams of AI agents to work together on complex problems. This approach allows agents to specialize and solve tasks in parallel, which can be more effective than using a single agent. However, coordinating multiple agents introduces new challenges around communication, planning, and making sure agents are aligned on their goals.&lt;/p&gt;&#xA;&lt;h3 id=&#34;research-highlights&#34;&gt;Research Highlights&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Adaptive Coordination and Communication:&lt;/strong&gt; a core research theme is how agents can coordinate strategies and communicate effectively. Advanced &lt;strong&gt;&lt;a href=&#34;https://arxiv.org/abs/1706.02275&#34;&gt;multi-agent reinforcement learning&lt;/a&gt;&lt;/strong&gt; (MARL) techniques—where agents learn through iterative interaction and shared reward signals—have enabled teams of agents to discover &lt;strong&gt;cooperative behaviors&lt;/strong&gt; that emerge spontaneously rather than through manual coding. By optimizing a collective objective, MARL agents develop protocols for &lt;strong&gt;dynamic role allocation&lt;/strong&gt;, &lt;strong&gt;implicit communication&lt;/strong&gt;, and &lt;strong&gt;resource sharing&lt;/strong&gt;, adapting to changing environments without predefined scripts. For instance, the &lt;strong&gt;&lt;a href=&#34;https://arxiv.org/abs/1910.00091&#34;&gt;Deep Coordination Graphs&lt;/a&gt;&lt;/strong&gt; lets agents learn how their actions affect the whole team’s success. Agents try out different ways of sharing tasks and helping each other recover from mistakes. Over time, they develop flexible teamwork strategies that outperform fixed, hand-written rules.&lt;/p&gt;</description>
     </item>
   </channel>
