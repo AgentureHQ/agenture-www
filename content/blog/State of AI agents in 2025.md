@@ -124,3 +124,8 @@ AI agents are becoming practical tools for automating workflows, analyzing data,
 8. Mem0, *Platform for agentic AI, offering memory, planning, and multi-agent collaboration capabilities* (2025). \[[https://mem0.ai/](https://mem0.ai/)]
 
 9. Google Agentspace, *Platform for agentic AI, offering memory, planning, and multi-agent collaboration capabilities* (2025). \[[https://cloud.google.com/products/agentspace](https://cloud.google.com/products/agentspace)]
+
+<br/>
+<br/>
+<br/>
+

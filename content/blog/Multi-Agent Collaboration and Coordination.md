@@ -151,3 +151,7 @@ As capabilities mature, we expect to see multi-agent systems handling increasing
 22. Tran, K., Dao, D., Nguyen, M., Pham, Q., O'Sullivan, B., & Nguyen, H. (2025). **Multi-Agent Collaboration Mechanisms: A Survey of LLMs**. arXiv preprint. [https://arxiv.org/html/2501.06322v1](https://arxiv.org/html/2501.06322v1)
 
 23. Berner, C., Brockman, G., Chan, B., Cheung, V., Dębiak, P., Dennison, C., Farhi, D., Fischer, Q., Hashme, S., Hesse, C., Józefowicz, R., Gray, S., Olsson, C., Pachocki, J., Petrov, M., Pinto, H. P. d. O., Raiman, J., Salimans, T., Schlatter, J., Schneider, J., Sidor, S., Sutskever, I., Tang, J., Wolski, F., & Zhang, S. (2019). Dota 2 with Large Scale Deep Reinforcement Learning. arXiv preprint [arXiv:1912.06680](https://arxiv.org/abs/1912.06680).
+
+<br/>
+<br/>
+<br/>
