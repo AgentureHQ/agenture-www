@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://agenturehq.github.io/</loc>
+    <lastmod>2025-07-10T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agenturehq.github.io/blog/</loc>
+    <lastmod>2025-07-10T09:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://agenturehq.github.io/tags/agentic-ai/</loc>
     <lastmod>2025-07-06T00:02:00+00:00</lastmod>
   </url><url>
-    <loc>https://agenturehq.github.io/</loc>
-    <lastmod>2025-07-06T00:02:00+00:00</lastmod>
-  </url><url>
     <loc>https://agenturehq.github.io/tags/ai/</loc>
-    <lastmod>2025-07-06T00:02:00+00:00</lastmod>
-  </url><url>
-    <loc>https://agenturehq.github.io/blog/</loc>
     <lastmod>2025-07-06T00:02:00+00:00</lastmod>
   </url><url>
     <loc>https://agenturehq.github.io/tags/cooperation/</loc>
@@ -35,13 +35,13 @@
     <loc>https://agenturehq.github.io/tags/research/</loc>
     <lastmod>2025-07-06T00:02:00+00:00</lastmod>
   </url><url>
-    <loc>https://agenturehq.github.io/blog/state-of-ai-agents-in-2025/</loc>
+    <loc>https://agenturehq.github.io/blog/250706-state-of-ai-agents-in-2025/</loc>
     <lastmod>2025-07-06T00:02:00+00:00</lastmod>
   </url><url>
     <loc>https://agenturehq.github.io/tags/</loc>
     <lastmod>2025-07-06T00:02:00+00:00</lastmod>
   </url><url>
-    <loc>https://agenturehq.github.io/blog/multi-agent-collaboration-and-coordination/</loc>
+    <loc>https://agenturehq.github.io/blog/250705-multi-agent-collaboration-and-coordination/</loc>
     <lastmod>2025-07-05T00:01:00+00:00</lastmod>
   </url><url>
     <loc>https://agenturehq.github.io/studies/</loc>

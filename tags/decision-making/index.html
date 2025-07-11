@@ -22,6 +22,24 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']],
+                processEscapes: true,
+                processEnvironments: true
+            },
+            options: {
+                ignoreHtmlClass: 'tex2jax_ignore',
+                processHtmlClass: 'tex2jax_process'
+            }
+        };
+    </script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
     <header class="header">
@@ -54,7 +72,7 @@
         <div class="post-list">
             
                 <section class="post-item">
-                    <a href="https://agenturehq.github.io/blog/state-of-ai-agents-in-2025/" class="post-item__link">
+                    <a href="https://agenturehq.github.io/blog/250706-state-of-ai-agents-in-2025/" class="post-item__link">
                         <h2 class="post-item__title">State of AI agents in 2025</h2>
                         <p class="post-item__summary">Exploring the latest advances in Agentic AI, from planning and decision-making to memory and multi-agent collaboration.</p>
                     </a>
